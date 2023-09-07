@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher_WoW_Addicts", "Launcher_WoW_Addicts.csproj", "{661F1532-73D7-4DAC-BC4C-859C84E91112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661F1532-73D7-4DAC-BC4C-859C84E91112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661F1532-73D7-4DAC-BC4C-859C84E91112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661F1532-73D7-4DAC-BC4C-859C84E91112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661F1532-73D7-4DAC-BC4C-859C84E91112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488B4873-41C7-4E22-95DF-131D5E85DFE4}
+	EndGlobalSection
+EndGlobal
