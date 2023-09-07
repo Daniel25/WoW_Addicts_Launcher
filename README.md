@@ -1,1 +1,1 @@
-# wow_addicts_launcher
+# WoW_Addicts Launcher v2
